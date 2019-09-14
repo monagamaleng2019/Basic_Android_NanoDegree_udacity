@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Udacity1</string>
+    <string name="sign_in">sign in</string>
+    <string name="by_google">by Google</string>
+    <string name="inbox">inbox</string>
+    <string name="hey_from_udacity_learning">hey from udacity learning</string>
+</resources>
